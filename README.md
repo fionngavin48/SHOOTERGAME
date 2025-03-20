@@ -2,7 +2,7 @@
 
 # Overview
 
-This is a fully 3D, first-person shooter (FPS) game built in Unity using C#. This personal project showcases mechanics including:
+This is a fully 3D, first-person shooter (FPS) game built in Unity using C#. This personal project showcases:
 
 ✅ Custom 3D models for the player and weapons made in Blender. 
 
