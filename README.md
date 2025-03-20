@@ -4,27 +4,22 @@
 
 This is a fully 3D, first-person shooter (FPS) game built in Unity using C#. This personal project showcases mechanics including:
 
-A main menu with UI elements.
-Multiple, selectable test maps with unique environments.
-Realistic physics for movement, shooting, and interactions.
-Custom animations for player actions.
-Particle effects for muzzle flash and bullets. 
+✅ Custom 3D models for the player and weapons made in Blender. 
 
-# Features
+✅ A main menu with UI elements.
 
-✅ First-Person Shooter Controls – Smooth movement & aiming.
+✅ Multiple, selectable test maps with unique environments.
 
-✅ Weapon System – Firing and reloading.
+✅ Realistic physics for movement, shooting, and interactions.
 
-✅ Interactive Maps – Different levels with obstacles and strategic cover.
+✅ Custom animations for player actions.
 
-✅ Realistic Effects – Custom particle effects for gunfire.
-
-✅ User Interface (UI) – Main menu.
+✅ Particle effects for muzzle flash and bullets. 
 
 # Requirements
 
 Unity (version 2021.x or later recommended).
+
 C# (for scripting and gameplay logic).
 
 # Installation & Usage
