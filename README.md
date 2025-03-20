@@ -26,7 +26,7 @@ C# (for scripting and gameplay logic).
 
 Clone the repository:
 
-git clone https://github.com/your-username/SHOOTERGAME.git
+git clone https://github.com/your-username/shooter-game.git
 
 Open the project in Unity:
 
